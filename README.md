@@ -2,10 +2,10 @@
 
 
 
-<div align="center">
+<div>
   <a href="https://github.com/Ozzy">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Ozzy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
+  <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ozzy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
